@@ -1,5 +1,3 @@
-
-</head>
 <body>
 <center>
   <p><b>个人简历</b></p>
@@ -77,7 +75,7 @@
      </tr>
     <tr>
       <td colspan="4">个人博客</td>
-      <td colspan="3"><a href="http://home.cnblogs.com/u/mantou1314/">http://home.cnblogs.com/u/mantou1314/</a></td>
+      <td colspan="3"><a href=""></a></td>
     </tr>
   </table>
   <p>&nbsp;</p>
