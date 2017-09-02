@@ -1,24 +1,19 @@
 
 </head>
-
 <body>
 <center>
   <p><b>个人简历</b></p>
   <table cellpadding="0" cellspacing="0" border="1">
     <tr>
       <td width="64" height="33">姓名</td>
-      <td width="109">王绚浩</td>
+      <td width="109">覃伟</td>
       <td width="73">性别</td>
       <td width="46">男</td>
       <td width="112">民族</td>
       <td width="159">汉族</td>
-      <td width="154" rowspan="4"><p ><img src="3c1dd7d958c7dc47a2b707e8a72b5e64.jpg" width="154" height="203" /></p></td>
+      <td width="154" rowspan="4"><p ><img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1052765006,1763115371&fm=27&gp=0.jpg" width="154" height="203" /></p></td>
     </tr>
     <tr>
-      <td height="31">身高</td>
-      <td>177cm</td>
-      <td>体重</td>
-      <td>60kg</td>
       <td>政治面貌</td>
       <td>团员</td>
     </tr>
@@ -28,7 +23,7 @@
       <td>学历</td>
       <td>专科</td>
       <td>毕业时间</td>
-      <td>2016.07</td>
+      <td>2013.06</td>
     </tr>
     <tr>
       <td height="46">户籍</td>
