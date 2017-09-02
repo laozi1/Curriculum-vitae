@@ -1,10 +1,4 @@
 
-<style type="text/css">
-body,td,th {
-    font-size: 16px;
-    color: #000;
-}
-</style>
 </head>
 
 <body>
